@@ -1,0 +1,9 @@
+{
+	"name": "acmedev",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "65442cc9-0879-48b2-9ead-4d5bca542f98",
+		"tenantId": "75cd1e71-4eae-4414-9a7a-8c9b66430733"
+	}
+}
